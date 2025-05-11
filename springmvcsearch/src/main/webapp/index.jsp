@@ -1,4 +1,3 @@
-
 <%
-response.sendRedirect("home");
+response.sendRedirect("complex");
 %>
